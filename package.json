@@ -1,0 +1,20 @@
+{
+  "name": "frontend-react",
+  "version": "1.0.0",
+  "description": "front react assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsmeneha007/frontend-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsmeneha007/frontend-react/issues"
+  },
+  "homepage": "https://github.com/itsmeneha007/frontend-react#readme"
+}
